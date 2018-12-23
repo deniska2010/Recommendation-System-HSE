@@ -10,7 +10,10 @@
 Описание датасета - https://www.kaggle.com/snap/amazon-fine-food-reviews/home.
 
 В качестве методов решения предполагаем использовать:
-- Matrix Factorization
 - SVD
-- Random Forest
+- Random Forest Classifier
+- Random Forest Regressor
+- Xgboost Regressor 
+- Xgboost Classifier  
+- Matrix Factorization
 - Probalistic Matrix Factorization
